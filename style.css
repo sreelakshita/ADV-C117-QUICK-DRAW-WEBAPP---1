@@ -1,0 +1,32 @@
+#score{
+    margin-left: 5px;
+    font-size: 20px;
+    font-family: 'lucida console';
+}
+#timer{
+    float: right;
+    margin-right: 5px;
+    font-size: 20px;
+    font-family: 'lucida console';
+}
+body{
+    background-color:palevioletred;
+}
+h1{
+    background-color: cornsilk;
+    color: rgb(22, 22, 24);
+    font-family: 'lucida console';
+}
+#show_sketch{
+    float: right;
+}
+p{
+    font-family: 'lucida console';
+    font-size: 25px;
+    color: rgb(244, 239, 239);
+}
+#sketch_to_be_drawn{
+    font-family: 'lucida console';
+    font-size: 25px;
+    color: whitesmoke;
+}
